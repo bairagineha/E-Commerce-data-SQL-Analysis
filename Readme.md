@@ -33,3 +33,7 @@ This project involves the analysis of e-commerce data using SQL. The goal is to 
 - Trends Over Time: Analyzed cumulative revenue and monthly revenue trends.
 - Top Performers: Identified top-performing customers and their contribution to overall revenue
 
+### 4.Tools Used
+- SQL: For database creation, data manipulation, and complex query execution.
+- Database Management System: MySQL for executing SQL queries and managing the database
+
