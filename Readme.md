@@ -43,6 +43,11 @@ This project involves the analysis of e-commerce data using SQL. The goal is to 
 - This query identifies customers who have spent more than 350,000 across all their orders.
 - ![Screenshot 2024-06-19 200052](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/26216f6a-d3b9-4dbf-a0b5-81dc1903b285)
 
+### Top 10 Customers by Total Spending
+- This query identifies the top 10 customers based on their total spending across all orders. It also provides the number of orders placed and the total quantity of products ordered for each customer. The - results are ordered by total spending in descending order
+- ![Screenshot 2024-06-19 201054](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/8ba5a773-fb37-4465-a5a7-2373ac36b4c4)
+
+
 ### Monthly Revenue and Difference for 2020
 - This query calculates the total revenue made across each month in 2020 and shows the revenue difference from the previous month.
 - ![Screenshot 2024-06-19 200445](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/649e371b-fb10-484e-8b94-08cbdda7a192)
