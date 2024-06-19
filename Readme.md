@@ -53,5 +53,11 @@ This project involves the analysis of e-commerce data using SQL. The goal is to 
 - ![Screenshot 2024-06-19 200445](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/649e371b-fb10-484e-8b94-08cbdda7a192)
 
 
+### Conclusion
+- The e-commerce SQL analysis revealed key insights into customer spending patterns, revenue trends, and order distributions. High-spending customers significantly contribute to total revenue, with peak 
+- order times and popular products identified. Geographical analysis highlighted regional sales performance, and the monthly revenue trends showcased seasonal sales fluctuations. These insights enable
+- businesses to optimize sales strategies, improve customer targeting, and enhance overall profitability.
+
+
 
 
