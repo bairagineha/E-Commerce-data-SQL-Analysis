@@ -37,3 +37,16 @@ This project involves the analysis of e-commerce data using SQL. The goal is to 
 - SQL: For database creation, data manipulation, and complex query execution.
 - Database Management System: MySQL for executing SQL queries and managing the database
 
+### 5. Key Queries:
+
+#### Customers with Total Spending Greater than 350,000
+- This query identifies customers who have spent more than 350,000 across all their orders.
+- ![Screenshot 2024-06-19 200052](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/26216f6a-d3b9-4dbf-a0b5-81dc1903b285)
+
+### Monthly Revenue and Difference for 2020
+- This query calculates the total revenue made across each month in 2020 and shows the revenue difference from the previous month.
+- ![Screenshot 2024-06-19 200445](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/649e371b-fb10-484e-8b94-08cbdda7a192)
+
+
+
+
