@@ -83,9 +83,8 @@ This project involves the analysis of e-commerce data using SQL. The goal is to 
 - This query calculates the total revenue made across each month in 2020 and shows the revenue difference from the previous month.
 - ![Screenshot 2024-06-20 225548](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/424c3588-683b-4f4d-82b9-f23c73f1b8ca)
 
-
-### Monthly Revenue and Difference for 2020
-- This query calculates the total revenue made across each month in 2020 and shows the revenue difference from the previous month.
+### Orders Summary for Selected Countries in 2020 and 2021
+- This query summarizes the total orders placed from selected countries (India, Italy, Australia, United States, Belgium, and Greece) for 2020 and 2021, ordered by year.
 - ![Screenshot 2024-06-19 200445](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/649e371b-fb10-484e-8b94-08cbdda7a192)
 
 
