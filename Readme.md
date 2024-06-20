@@ -39,13 +39,49 @@ This project involves the analysis of e-commerce data using SQL. The goal is to 
 
 ### 5. Key Queries:
 
+### Customer Orders Cross Join
+- This query retrieves all columns from the Customers and Orders tables where the CustomerID matches in both tables, ordered by CustomerID and OrderID.
+- ![Screenshot 2024-06-20 221755](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/9b825b40-17ee-43d8-994c-a01a8b169d13)
+  
+
+### Filter Orders by CustomerID Multiple of 5
+- This query prints all columns from the Orders table except PaymentID and ShipperID for customers whose CustomerID is a multiple of 5, ordered by OrderID.
+- ![Screenshot 2024-06-20 222208](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/24744d03-c549-4f9f-aa2e-67bb4d68e040)
+
+
 #### Customers with Total Spending Greater than 350,000
 - This query identifies customers who have spent more than 350,000 across all their orders.
 - ![Screenshot 2024-06-19 200052](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/26216f6a-d3b9-4dbf-a0b5-81dc1903b285)
+  
 
+### Payment Method Analysis
+- This query counts the number of orders and calculates the total transaction value for each payment method, ordered by PaymentID.
+- ![Screenshot 2024-06-20 222429](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/56c03348-02e2-4e57-ab12-8bcbc2adb332)
+  
+
+### Orders and Revenue by City in India
+- This query counts the orders and calculates the total revenue for each city in India, ordered by city name.
+- ![Screenshot 2024-06-20 225133](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/a75c6d30-c5eb-44b4-b255-b0ddd8c44c53)
+
+ 
 ### Top 10 Customers by Total Spending
 - This query identifies the top 10 customers based on their total spending across all orders. It also provides the number of orders placed and the total quantity of products ordered for each customer. The - results are ordered by total spending in descending order
 - ![Screenshot 2024-06-19 201054](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/8ba5a773-fb37-4465-a5a7-2373ac36b4c4)
+  
+
+### Revenue Buckets by City
+- This query divides cities into revenue buckets based on the total revenue generated, considering only cities with revenue greater than 15,000,000.
+- ![Screenshot 2024-06-20 225241](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/985d9d3e-782e-4e8c-8f42-b6bfef1193fb)
+  
+
+### Top Spenders Above Age 65 by Country
+- This query identifies customers above 65 who spent the most in their respective countries, ordered by CustomerID.
+- ![Screenshot 2024-06-20 225418](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/c8ac7b4f-3557-4d8d-848b-03f0d1d186fb)
+
+
+### Monthly Revenue and Difference for 2020
+- This query calculates the total revenue made across each month in 2020 and shows the revenue difference from the previous month.
+- ![Screenshot 2024-06-20 225548](https://github.com/bairagineha/E-Commerce-data-SQL-Analysis/assets/151651884/424c3588-683b-4f4d-82b9-f23c73f1b8ca)
 
 
 ### Monthly Revenue and Difference for 2020
